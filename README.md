@@ -1,73 +1,104 @@
-# 🚀 Chetan Kumar
+<h1 align="center">🚀 Chetan Kumar</h1>
 
-AI Builder • DevOps Engineer • Startup Mindset
+<h3 align="center">AI Builder | DevOps Engineer | Startup Mindset</h3>
 
-Building **AI products, cloud infrastructure, and automation systems**.
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AI+Startup+Builder;Docker+%7C+Kubernetes+%7C+AWS;Building+Future+Tech&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-* 💻 DevOps & Cloud Enthusiast
-* 🐳 Learning **Docker, Kubernetes, AWS**
-* 🤖 Building **AI Startups**
-* 🌍 Based in India
-* 📸 Photography lover
+* 💡 Building **AI products & startup ideas**
+* ☁️ Learning **AWS, DevOps & Cloud Architecture**
+* 🐳 Working with **Docker & Kubernetes**
+* 🧠 Interested in **AI + Infrastructure**
+* 📸 Photography Enthusiast
 * ✍️ Poet
 
 ---
 
-## ⚡ Current Projects
+# 🚀 Current Projects
 
-🚀 AI Founder Portfolio
-🤖 AI Resume Analyzer
-🌐 Wallpaper Hub
-⚙️ DevOps Automation Tools
+🔹 **AI Founder Portfolio**
+Building a personal AI-powered founder dashboard
 
----
+🔹 **AI Resume Analyzer**
+Analyzes resumes using AI
 
-## 🛠 Tech Stack
+🔹 **Wallpaper Hub**
+4K wallpaper platform
 
-**Cloud**
-
-AWS • Docker • Kubernetes • Linux
-
-**Backend**
-
-Node.js • Python • MongoDB
-
-**Frontend**
-
-HTML • CSS • JavaScript
+🔹 **DevOps Automation Tools**
+Server automation scripts
 
 ---
 
-## 📊 GitHub Stats
+# ⚙️ Tech Stack
 
-![stats](https://github-readme-stats.vercel.app/api?username=CHETANKUMAR20\&show_icons=true\&theme=tokyonight)
+### ☁️ Cloud & DevOps
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=CHETANKUMAR20\&theme=tokyonight)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 💻 Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-## 📈 Most Used Languages
+# 📊 GitHub Stats
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHETANKUMAR20\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CHETANKUMAR20&show_icons=true&theme=tokyonight"/>
+</p>
 
----
-
-## 🌐 Connect With Me
-
-LinkedIn
-Twitter
-Portfolio Website
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHETANKUMAR20&theme=tokyonight"/>
+</p>
 
 ---
 
-🔥 *Building the future one system at a time.*
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETANKUMAR20&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn
+🌍 Portfolio Website
+📧 Email
+
+---
+
+# 🚀 Vision
+
+> Building AI tools and cloud infrastructure that solve real problems.
+
+---
+
+⭐ *If you like my work, consider starring my repositories.*
