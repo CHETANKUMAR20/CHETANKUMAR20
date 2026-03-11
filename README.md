@@ -1,104 +1,91 @@
-<h1 align="center">🚀 Chetan Kumar</h1>
-
-<h3 align="center">AI Builder | DevOps Engineer | Startup Mindset</h3>
+<h1 align="center">Chetankumar 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AI+Startup+Builder;Docker+%7C+Kubernetes+%7C+AWS;Building+Future+Tech&center=true&width=500&height=45">
+AI Builder • DevOps Engineer • Startup Mindset
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Products;DevOps+%7C+Cloud+Infrastructure;Docker+%7C+Kubernetes+%7C+AWS;Founder+Mindset;Learning+Something+New+Everyday"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About
 
-* 💡 Building **AI products & startup ideas**
-* ☁️ Learning **AWS, DevOps & Cloud Architecture**
-* 🐳 Working with **Docker & Kubernetes**
-* 🧠 Interested in **AI + Infrastructure**
-* 📸 Photography Enthusiast
-* ✍️ Poet
+* Building **AI products and startup tools**
+* Exploring **DevOps & cloud architecture**
+* Working with **Docker, Kubernetes & AWS**
+* Interested in **AI + scalable infrastructure**
+* Photographer & poet outside tech
 
 ---
 
-# 🚀 Current Projects
+## 🚀 Projects
 
-🔹 **AI Founder Portfolio**
-Building a personal AI-powered founder dashboard
+**AI Founder Portfolio**
+Personal dashboard for projects, experiments, and startup ideas
 
-🔹 **AI Resume Analyzer**
-Analyzes resumes using AI
+**AI Resume Analyzer**
+AI system to analyze resumes and provide insights
 
-🔹 **Wallpaper Hub**
+**Wallpaper Hub**
 4K wallpaper platform
 
-🔹 **DevOps Automation Tools**
-Server automation scripts
+**DevOps Automation Tools**
+Scripts for server monitoring and automation
 
 ---
 
-# ⚙️ Tech Stack
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-### 💻 Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🗄 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### 🎨 Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
----
-
-# 📊 GitHub Stats
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CHETANKUMAR20&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHETANKUMAR20&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nodejs,python,mongodb,html,css,js"/>
+
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETANKUMAR20&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CHETANKUMAR20&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CHETANKUMAR20&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Languages
 
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETANKUMAR20&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🌐 Connect With Me
-
-💼 LinkedIn
-🌍 Portfolio Website
-📧 Email
+</p>
 
 ---
 
-# 🚀 Vision
+## 🐍 Contributions
 
-> Building AI tools and cloud infrastructure that solve real problems.
+<p align="center">
+
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories.*
+## 🌐 Connect
+
+* LinkedIn
+* Portfolio
+* Email
+
+---
+
+<p align="center">
+Building systems, exploring ideas, and learning every day.
+</p>
