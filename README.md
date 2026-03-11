@@ -1,56 +1,66 @@
-<h1 align="center">Chetankumar 🚀</h1>
+<!-- HEADER -->
+
+<h1 align="center">Chetankumar</h1>
 
 <p align="center">
-AI Builder • DevOps Engineer • Startup Mindset
+AI Builder • DevOps Engineer • Founder Mindset
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Products;DevOps+%7C+Cloud+Infrastructure;Docker+%7C+Kubernetes+%7C+AWS;Founder+Mindset;Learning+Something+New+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+AI+Products;DevOps+%7C+Cloud+Infrastructure;Docker+%7C+Kubernetes+%7C+AWS;Turning+Ideas+Into+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About
+## About
 
-* Building **AI products and startup tools**
-* Exploring **DevOps & cloud architecture**
-* Working with **Docker, Kubernetes & AWS**
-* Interested in **AI + scalable infrastructure**
-* Photographer & poet outside tech
+I build **AI products and cloud infrastructure** with a focus on scalable systems and automation.
+
+Currently exploring **DevOps, AI applications, and startup development**.
+
+* Building real products
+* Learning cloud architecture
+* Experimenting with automation and AI
 
 ---
 
-## 🚀 Projects
+## Current Projects
 
 **AI Founder Portfolio**
-Personal dashboard for projects, experiments, and startup ideas
+Personal dashboard for projects, stats, and experiments.
 
 **AI Resume Analyzer**
-AI system to analyze resumes and provide insights
+AI-powered resume analysis tool.
 
 **Wallpaper Hub**
-4K wallpaper platform
+A platform for curated 4K wallpapers.
 
-**DevOps Automation Tools**
-Scripts for server monitoring and automation
+**DevOps Automation**
+Scripts and tools for server automation.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nodejs,python,mongodb,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nodejs,python,mongodb,html,css,js&theme=dark" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHETANKUMAR20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CHETANKUMAR20&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETANKUMAR20&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CHETANKUMAR20&theme=tokyonight&hide_border=true"/>
 
@@ -58,34 +68,16 @@ Scripts for server monitoring and automation
 
 ---
 
-## 📈 Languages
+## Connect
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETANKUMAR20&layout=compact&theme=tokyonight&hide_border=true"/>
+LinkedIn • Portfolio • Email
 
 </p>
 
 ---
 
-## 🐍 Contributions
-
 <p align="center">
-
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## 🌐 Connect
-
-* LinkedIn
-* Portfolio
-* Email
-
----
-
-<p align="center">
-Building systems, exploring ideas, and learning every day.
+Building technology that solves real problems.
 </p>
