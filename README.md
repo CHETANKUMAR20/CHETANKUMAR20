@@ -4,6 +4,12 @@ AI Builder • DevOps Engineer • Startup Mindset
 
 Building **AI products, cloud infrastructure, and automation systems**.
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ---
 
 ## 🧠 About Me
