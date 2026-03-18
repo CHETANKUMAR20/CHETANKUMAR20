@@ -22,38 +22,7 @@ Focused on:
 • DevOps architecture
 • infrastructure automation
 • startup products
-
 ---
-
-# 🧠 AI Projects
-
-<p align="center">
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=ai-founder-portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-# 🧩 Projects
-
-<p align="center">
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=wallpaper-hub&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=devops-automation&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 ---
 
