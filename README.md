@@ -1,11 +1,127 @@
 <!-- ================= HERO ================= -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:3B82F6&height=220&section=header&text=Chetan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<!-- ================= FEATURED PROJECTS ================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Ops+Engineer;DevOps+Builder;Cloud+Infrastructure;Startup+Founder"/>
+
+<!-- CARD CONTAINER -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- PROJECT 1 -->
+<div style="
+width: 300px;
+padding: 20px;
+border-radius: 15px;
+background: linear-gradient(145deg, #0f172a, #020617);
+border: 1px solid rgba(59,130,246,0.3);
+box-shadow: 0 0 20px rgba(59,130,246,0.2);
+text-align: left;
+">
+
+<h3 style="color:#38BDF8;">⚡ AI Log Anomaly Detection</h3>
+
+<p style="font-size:14px; color:#cbd5f5;">
+Real-time AI system that detects anomalies in logs using ML models and streams insights to a monitoring dashboard.
+</p>
+
+<p style="font-size:12px; color:#94a3b8;">
+FastAPI • ML • Real-time Logs • Monitoring
+</p>
+
+<div style="
+margin-top:10px;
+height:5px;
+background:rgba(255,255,255,0.1);
+border-radius:10px;
+overflow:hidden;
+">
+<div style="width:85%; height:100%; background:#38BDF8;"></div>
+</div>
+
+<p style="font-size:11px; margin-top:5px; color:#64748b;">
+System Completion: 85%
+</p>
+
+</div>
+
+<!-- PROJECT 2 -->
+<div style="
+width: 300px;
+padding: 20px;
+border-radius: 15px;
+background: linear-gradient(145deg, #0f172a, #020617);
+border: 1px solid rgba(168,85,247,0.3);
+box-shadow: 0 0 20px rgba(168,85,247,0.2);
+text-align: left;
+">
+
+<h3 style="color:#a855f7;">🧠 c01ai Platform</h3>
+
+<p style="font-size:14px; color:#cbd5f5;">
+Autonomous AI infrastructure platform with modular engines, command system, and DevOps automation layer.
+</p>
+
+<p style="font-size:12px; color:#94a3b8;">
+SPA • AI Engines • DevOps • UI System
+</p>
+
+<div style="
+margin-top:10px;
+height:5px;
+background:rgba(255,255,255,0.1);
+border-radius:10px;
+overflow:hidden;
+">
+<div style="width:70%; height:100%; background:#a855f7;"></div>
+</div>
+
+<p style="font-size:11px; margin-top:5px; color:#64748b;">
+System Completion: 70%
+</p>
+
+</div>
+
+<!-- PROJECT 3 -->
+<div style="
+width: 300px;
+padding: 20px;
+border-radius: 15px;
+background: linear-gradient(145deg, #0f172a, #020617);
+border: 1px solid rgba(34,197,94,0.3);
+box-shadow: 0 0 20px rgba(34,197,94,0.2);
+text-align: left;
+">
+
+<h3 style="color:#22c55e;">🌐 Wallpaper Hub</h3>
+
+<p style="font-size:14px; color:#cbd5f5;">
+High-performance wallpaper platform with categorized assets, preview modal, and optimized UI experience.
+</p>
+
+<p style="font-size:12px; color:#94a3b8;">
+Frontend • UI/UX • Static Hosting
+</p>
+
+<div style="
+margin-top:10px;
+height:5px;
+background:rgba(255,255,255,0.1);
+border-radius:10px;
+overflow:hidden;
+">
+<div style="width:90%; height:100%; background:#22c55e;"></div>
+</div>
+
+<p style="font-size:11px; margin-top:5px; color:#64748b;">
+System Completion: 90%
+</p>
+
+</div>
+
+</div>
+
 </p>
 
 ---
