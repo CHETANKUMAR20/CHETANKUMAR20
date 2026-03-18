@@ -83,37 +83,6 @@ System Completion: 70%
 
 </div>
 
-<!-- PROJECT 3 -->
-<div style="
-width: 300px;
-padding: 20px;
-border-radius: 15px;
-background: linear-gradient(145deg, #0f172a, #020617);
-border: 1px solid rgba(34,197,94,0.3);
-box-shadow: 0 0 20px rgba(34,197,94,0.2);
-text-align: left;
-">
-
-<h3 style="color:#22c55e;">🌐 Wallpaper Hub</h3>
-
-<p style="font-size:14px; color:#cbd5f5;">
-High-performance wallpaper platform with categorized assets, preview modal, and optimized UI experience.
-</p>
-
-<p style="font-size:12px; color:#94a3b8;">
-Frontend • UI/UX • Static Hosting
-</p>
-
-<div style="
-margin-top:10px;
-height:5px;
-background:rgba(255,255,255,0.1);
-border-radius:10px;
-overflow:hidden;
-">
-<div style="width:90%; height:100%; background:#22c55e;"></div>
-</div>
-
 <p style="font-size:11px; margin-top:5px; color:#64748b;">
 System Completion: 90%
 </p>
@@ -140,17 +109,115 @@ Focused on:
 
 # 🚀 Featured Projects
 
-<p align="center">
+<!-- ================= FEATURED PROJECTS ================= -->
 
-<a href="https://github.com/CHETANKUMAR20/ai-log-anomaly-detection-v2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=ai-log-anomaly-detection-v2&theme=tokyonight&hide_border=true"/>
-</a>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<a href="https://github.com/CHETANKUMAR20/wallpaper-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=wallpaper-hub&theme=tokyonight&hide_border=true"/>
-</a>
+<div align="center">
 
-</p>
+<!-- AI OPS ARCHITECTURE -->
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+background:linear-gradient(145deg,#0b0f17,#111827);
+padding:25px;
+border-radius:15px;
+width:90%;
+max-width:900px;
+margin-bottom:30px;
+border:1px solid rgba(255,255,255,0.08);
+">
+
+<h3 style="color:#38BDF8;">⚡ AI Ops Monitoring System</h3>
+
+<div style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:15px;margin-top:20px;">
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #38BDF8;">
+User Logs
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #9333EA;">
+FastAPI Backend
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #22C55E;">
+AI Model
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #F59E0B;">
+Anomaly Detection
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #06B6D4;">
+Dashboard UI
+</div>
+
+</div>
+
+</div>
+
+<!-- DEVOPS AUTOMATION -->
+
+<div style="
+display:flex;
+flex-direction:column;
+align-items:center;
+background:linear-gradient(145deg,#0b0f17,#111827);
+padding:25px;
+border-radius:15px;
+width:90%;
+max-width:900px;
+margin-bottom:30px;
+border:1px solid rgba(255,255,255,0.08);
+">
+
+<h3 style="color:#22C55E;">🛠️ DevOps Automation Pipeline</h3>
+
+<div style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:15px;margin-top:20px;">
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #3B82F6;">
+Git Push
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #9333EA;">
+CI/CD Pipeline
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #F43F5E;">
+Docker Build
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #22C55E;">
+Deploy to Server
+</div>
+
+<div>➡️</div>
+
+<div style="padding:12px 18px;border-radius:8px;background:#020617;border:1px solid #06B6D4;">
+Monitoring
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
