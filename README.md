@@ -1,56 +1,37 @@
-<!-- ================= HERO BANNER ================= -->
+<!-- ================= HERO ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:3B82F6&height=220&section=header&text=Chetankumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:3B82F6&height=220&section=header&text=Chetan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Builder;DevOps+Engineer;Cloud+Infrastructure;Startup+Founder+Mindset"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Ops+Engineer;DevOps+Builder;Cloud+Infrastructure;Startup+Founder"/>
 </p>
 
 ---
 
-# About
+# 🧠 About Me
 
-I build **AI products, automation systems, and scalable cloud infrastructure**.
+I build **AI systems, DevOps platforms, and scalable infrastructure**.
 
 Focused on:
-
-• AI applications
-• DevOps architecture
-• infrastructure automation
-• startup products
-
----
-
-# 🧠 AI Projects
-
-<p align="center">
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=ai-founder-portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+- AI Ops & Monitoring Systems
+- DevOps Automation
+- Cloud Infrastructure (AWS)
+- Startup Product Development
 
 ---
 
-# 🧩 Projects
+# 🚀 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/CHETANKUMAR20">
+<a href="https://github.com/CHETANKUMAR20/ai-log-anomaly-detection-v2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=ai-log-anomaly-detection-v2&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/CHETANKUMAR20/wallpaper-hub">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=wallpaper-hub&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/CHETANKUMAR20">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CHETANKUMAR20&repo=devops-automation&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -60,14 +41,12 @@ Focused on:
 # ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nodejs,python,mongodb,html,css,js&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,js,html,css,mongodb&theme=dark"/>
 </p>
 
 ---
 
-# 📊 DevOps Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -82,19 +61,15 @@ Focused on:
 # 📈 Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHETANKUMAR20&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🌌 3D Contribution Graph
+# 🌌 Contribution Graph
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/profile-night-rainbow.svg"/>
-
 </p>
 
 ---
@@ -103,20 +78,18 @@ Focused on:
 
 <p align="center">
 
-LinkedIn • Portfolio • Email
+<a href="https://www.linkedin.com/">LinkedIn</a> • 
+<a href="#">Portfolio</a> • 
+<a href="mailto:your@email.com">Email</a>
 
 </p>
 
 ---
 
 <p align="center">
-
-Building AI systems and infrastructure that solve real problems.
-
+Building AI infrastructure and systems for real-world scale 🚀
 </p>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:020617&height=120&section=footer"/>
-
 </p>
