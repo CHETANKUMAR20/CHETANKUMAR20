@@ -54,7 +54,28 @@ A system that:
 
 🌐 <a href="https://c01ai.com"><strong>c01ai Platform</strong></a>  
 📝 <a href="https://blogs.c01ai.com"><strong>Technical Blog</strong></a>  
+💡 <a href="https://github.com/CHETANKUMAR20/c01ai-open-ideas"><strong>Open Ideas Community</strong></a>  
 💼 <a href="https://www.linkedin.com/in/chetankumar-madli"><strong>LinkedIn</strong></a>  
+
+</p>
+
+---
+
+## 🤝 Community & Collaboration
+
+We are building an open ecosystem around autonomous infrastructure.
+
+👉 Contribute ideas, discuss architecture, and shape the future:
+
+💡 <a href="https://github.com/CHETANKUMAR20/c01ai-open-ideas"><strong>Join c01ai Open Ideas</strong></a>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+
+📧 <strong>c458047@gmail.com</strong>  
 
 </p>
 
