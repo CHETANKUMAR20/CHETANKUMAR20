@@ -48,6 +48,18 @@ A system that:
 
 ---
 
+## 🌐 Ecosystem
+
+<p align="center">
+
+🌐 <a href="https://c01ai.com"><strong>c01ai Platform</strong></a>  
+📝 <a href="https://blogs.c01ai.com"><strong>Technical Blog</strong></a>  
+💼 <a href="https://www.linkedin.com/in/chetankumar-madli"><strong>LinkedIn</strong></a>  
+
+</p>
+
+---
+
 # ⚙️ Tech Stack
 
 <p align="center">
@@ -91,16 +103,6 @@ A system that:
 
 ---
 
-# 🌍 Connect
-
-<p align="center">
-
-🔗 LinkedIn • 🌐 Portfolio • 📧 Email  
-
-</p>
-
----
-
 # ⚡ Vision
 
 We don’t need more monitoring tools.
@@ -115,7 +117,7 @@ We need systems that:
 
 <p align="center">
 
-Building the future of autonomous infrastructure with c01ai 🚀
+Building the future of autonomous infrastructure with <strong>c01ai</strong> 🚀
 
 </p>
 
